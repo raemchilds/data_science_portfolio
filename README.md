@@ -30,12 +30,6 @@ Welcome to **ChristmasInJuly**, an interactive data visualization celebrating th
 
 ---
 
-## 📸 Preview
-
-![screenshot](preview.png)
-
----
-
 ## 📁 Files
 
 - `christmas_chart_snow_css.html` – Main project file with animated snow
